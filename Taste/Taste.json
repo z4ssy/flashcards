@@ -1,42 +1,46 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Taste/bitter.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/Taste.json",
+        "en": "Taste"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/bitter.jpg",
         "en": "bitter"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/cold.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/cold.jpg",
         "en": "cold"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/delicious.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/delicious.jpg",
         "en": "delicious"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/hard.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/hard.jpg",
         "en": "hard"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/hot.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/hot.jpg",
         "en": "hot"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/salty.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/salty.jpg",
         "en": "salty"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/soft.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/soft.jpg",
         "en": "soft"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/sour.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/sour.jpg",
         "en": "sour"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/spicy.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/spicy.jpg",
         "en": "spicy"
     },
     {
-        "image": "https://github.com/z4ssy/flashcards/tree/main/Taste/sweet.jpg",
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/tree/main/Taste/sweet.jpg",
         "en": "sweet"
     }
 ]
