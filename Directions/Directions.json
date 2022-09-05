@@ -1,0 +1,30 @@
+[
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Directions/Block.jpg",
+        "en": "Block"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Directions/Go.jpg",
+        "en": "Go"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Directions/Left.jpg",
+        "en": "Left"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Directions/Right.jpg",
+        "en": "Right"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Directions/See.jpg",
+        "en": "See"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Directions/Straight.jpg",
+        "en": "Straight"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Directions/Turn.jpg",
+        "en": "Turn"
+    }
+]
