@@ -1,0 +1,30 @@
+[
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Shapes/Circle.jpg",
+        "en": "Circle"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Shapes/Diamond.jpg",
+        "en": "Diamond"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Shapes/Heart.jpg",
+        "en": "Heart"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Shapes/Rectangle.jpg",
+        "en": "Rectangle"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Shapes/Square.jpg",
+        "en": "Square"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Shapes/Star.jpg",
+        "en": "Star"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/z4ssy/flashcards/main/Shapes/Triangle.jpg",
+        "en": "Triangle"
+    }
+]
